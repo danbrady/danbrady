@@ -2,7 +2,7 @@
 
 👋
 
-Hi, I'm Dan.
+Hi, I'm Dan - a designer that loves to code.
 
 Skills include: Design Systems, Product Design, UI Development, DesignOps
 
