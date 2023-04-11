@@ -4,6 +4,6 @@
 
 Hi, I'm Dan - a designer that loves to code.
 
-Skills include: Design Systems, Product Design, UI Development, DesignOps
+I want to work with you on your design system team!
 
 [https://www.danbrady.net](https://www.danbrady.net?utm_medium=social&utm_source=github)
